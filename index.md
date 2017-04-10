@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Marián Hlaváč
 
   - 21 let
