@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css?family=Work+Sans:200,400,700');
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Work Sans', sans-serif;
+  font-size: 15px;
+  line-height: 1.7;
+  font-weight: 400;
+}
+
+main {
+  max-width: 960px;
+  padding: 3rem;
+  padding-left: 320px;
+  margin: auto;
+  position: relative;
+}
+
+main > p:first-child {
+  margin: 0;
+}
+
+li {
+  text-align: justify;
+}
+
+h1 {
+  font-weight: 200;
+  font-size: 3.5em;
+  margin: 0;
+  line-height: 1;
+}
+
+h2 {
+  font-weight: 400;
+}
+
+a {
+  color: rgb(188, 39, 66);
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.profile-picture {
+  border-radius: .5em;
+  position: absolute;
+  top: 3rem;
+  left: -3rem;
+  width: 320px;
+}

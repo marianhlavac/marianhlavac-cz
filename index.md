@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![Fotografie Marián Hlaváč](assets/profile-picture.jpg){:width="320"}
+![Fotografie Marián Hlaváč](assets/profile-picture.jpg){:width="320" class="profile-picture"}
 
 # Marián Hlaváč
 
@@ -17,20 +17,20 @@ layout: default
 
   - [letters@majko.cz](mailto:letters@majko.cz)
   - [+420 605 347 542](tel:+420605347542)
-  - [cz.linkedin.com/in/majko](http://cz.linkedin.com/in/majko)
-  - [fb.com/marian.hlavac](http://fb.com/marian.hlavac)
-  - [twitter.com/mmajko](http://twitter.com/mmajko)
+  - [cz.linkedin.com/in/majko](http://cz.linkedin.com/in/majko){:target="_blank"}
+  - [fb.com/marian.hlavac](http://fb.com/marian.hlavac){:target="_blank"}
+  - [twitter.com/mmajko](http://twitter.com/mmajko){:target="_blank"}
   
   
-  - [github.com/mmajko](http://github.com/mmajko)
-  - [youtube.com/majko15](http://youtube.com/majko15)
-  - [majko15.deviantart.com](http://majko15.deviantart.com)
-  - [medium.com/@mmajko](https://medium.com/@mmajko)
+  - [github.com/mmajko](http://github.com/mmajko){:target="_blank"}
+  - [youtube.com/majko15](http://youtube.com/majko15){:target="_blank"}
+  - [majko15.deviantart.com](http://majko15.deviantart.com){:target="_blank"}
+  - [medium.com/@mmajko](https://medium.com/@mmajko){:target="_blank"}
    
 ## Co jsem se učil a co se učím
 
-  - Dokončil jsem [Střední školu průmyslovou v Karviné](http://sps-karvina.cz), obor Informační technologie.
-  - Studuji bakaláře na [Fakultě informačních technologií](http://fit.cvut.cz), [Českého vysokého učení technického v Praze](http://cvut.cz).
+  - Dokončil jsem [Střední školu průmyslovou v Karviné](http://sps-karvina.cz){:target="_blank"}, obor Informační technologie.
+  - Studuji bakaláře na [Fakultě informačních technologií](http://fit.cvut.cz){:target="_blank"}, [Českého vysokého učení technického v Praze](http://cvut.cz){:target="_blank"}.
   
 ## Co umím a dělám
 
@@ -49,7 +49,7 @@ layout: default
     - Návrh UI, UX consulting, print design
     - Vektorová a rastrová grafika
     - Adobe Photoshop, Adobe Illustrator, Affinity Designer, Affinity Photo, Inkscape
-    - reference na [mém deviantart profilu]()
+    - reference na [mém deviantart profilu](http://majko15.deviantart.com){:target="_blank"}
   - Herní vývoj
     - Zkušenosti s populárními herními enginy (Unity, UnrealEngine, Defold)
     - Základy game theory a designu
@@ -61,7 +61,7 @@ layout: default
     - Adobe Premiere, Sony Vegas Pro, HitFilm, iMovie
     - Základy fotografie a postprodukce
     - Adobe Lightroom, Adobe Photoshop
-    - reference na [mém youtube profilu]()
+    - reference na [mém youtube profilu](http://youtube.com/majko15){:target="_blank"}
   - 3D modelování
     - Amatérské základy modelování, UV mappingu a texturování a optimalizace pro rendering
     - Blender, OpenSCAD
@@ -69,7 +69,7 @@ layout: default
   - Tvorba hudby
     - Amatérský koníček, žánr elektronická hudba
     - FL Studio, GarageBand
-    - reference na [mém soundcloud profilu]()
+    - reference na [mém soundcloud profilu](https://soundcloud.com/mmajko){:target="_blank"}
   - Hardware
     - Amatérský koníček
     - Arduino, Raspberry Pi
@@ -79,16 +79,16 @@ layout: default
 
   - Vývojář v ICT oddělení na Fakultě informačních technologií ČVUT *2015 -- &hellip;*
     - Na ICT oddělení Fakulty informačních technologií univerzity ČVUT v Praze pracuji jako front-endový vývojář.
-    - [fit.cvut.cz]()
+    - [fit.cvut.cz](http://fit.cvut.cz){:target="_blank"}
   - Kodér a vývojář webových aplikací ve společnosti BRANDNEW *2013 -- 2015*
     - V mladé reklamní agentuře Brand New s.r.o. jsem se podílel na tvorbě či úpravách webových prezentací některých projektů jejich klientů. V drtivé většině případů jsem měl na starosti kódování. Společně s velmi schopným a společenským kolektivem z Brand New s.r.o. jsem rád tvořil poutavé kampaně a projekty pro významné klienty, jako Nestlé či Beko.
     - HTML5, CSS3, SASS, PHP
-    - [brandnew.cz]()
+    - [brandnew.cz](http://brandnew.cz){:target="_blank"}
   - Kodér a vývojář webových aplikací pro Fiolasoft Studio *2013 -- 2015*
     - Ve studiu FiolaSoft jsem se podílel na vývoji nového webového portálu herního pořadu Indian a zakázkách pro klienta Playman s.r.o.
     - Tvorba portálu herního pořadu Indian
     - Tvorba e-shopu Playclub pro klienta Playman s.r.o.
-    - [fiolasoft.cz]()
+    - [fiolasoft.cz](http://fiolasoft.cz){:target="_blank"}
   - Kodér a vývojář webových aplikací v týmu Venetico *2011 -- 2013*
     - V týmu Venetico jsem zastával funkci HTML kodéra a PHP programátora webových aplikací.
     - Webové prezentace pro organizace a společnosti, CMS na míru, B2B správa produktů.
