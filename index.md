@@ -2,6 +2,8 @@
 layout: default
 ---
 
+![Fotografie Marián Hlaváč](assets/profile-picture.jpg){:width="320"}
+
 # Marián Hlaváč
 
   - 21 let
