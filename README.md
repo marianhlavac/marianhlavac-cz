@@ -1,2 +1,3 @@
-# majko-cz
-Simple personal page at http://majko.cz
+# marianhlavac-cz
+
+My personal website running at http://marianhlavac.cz
