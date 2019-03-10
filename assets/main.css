@@ -15,6 +15,12 @@ body {
   font-size: 16px;
   line-height: 1.9;
   font-weight: 400;
+  margin: 0;
+  padding: 0;
+}
+
+.wrap {
+  overflow-x: hidden;
 }
 
 main {
@@ -78,6 +84,8 @@ a:hover {
 }
 
 .illustration {
+  display: block;
+  background: url('illustration.svg') no-repeat;
   width: 1400px;
   height: 350px;
   position: absolute;

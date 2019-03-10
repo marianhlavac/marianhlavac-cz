@@ -2,11 +2,13 @@
 <html lang="{{ page.lang | default: site.lang | default: "en" }}">
   {% include head.html %}
   <body>
-    <main class="page-content home-page">
-        <span class="works-as">Works as my resume.</span>
-      <a href="#" class="button download-pdf">Download this page as PDF</a>
-      <img src="assets/illustration.svg" class="illustration">
-      {{ content }}
-    </main>
+    <div class="wrap">
+      <main class="page-content home-page">
+          <span class="works-as">Works as my resume.</span>
+        <a href="#" class="button download-pdf">Download this page as PDF</a>
+        <div class="illustration"></div>
+        {{ content }}
+      </main>
+    </div>
   </body>
 </html>
