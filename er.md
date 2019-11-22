@@ -1,5 +1,6 @@
 ---
 layout: default
+description: This er-form variant of my introduction is for various copy-paste purposes.
 ---
 
 Marián Hlaváč is a&nbsp;full-stack web developer and&nbsp;technology enthusiast
