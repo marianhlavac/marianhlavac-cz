@@ -47,8 +47,8 @@ are currently sitting on my hard drive as well.
 
 ### Development Techniques & Project Management
 Regarding to good development practices, 'clean commit history', 'code review',
-'continuous integration', or 'automation' --- those are terms that I like
-more than I like eating a dessert after a lunch. And I really like having
+'continuous integration', or 'automation' --- those are some of the terms that 
+I like more than I like eating a dessert after a lunch. And I really like having
 a dessert after a lunch.
 
 I also like **open-source** and non-proprietary solutions, 
@@ -80,7 +80,7 @@ in the old-school Xara Designer, then continued to learn how to program
 small web apps in PHP and now I'm in charge of technical infrastructure of
 a young technological start-up. Whew, time flies.
 
-- ### CTO & Co-Founder at **Dronetag**
+- ### Co-Founder at **Dronetag**
   - *Nov 2018 -- now*
   - We started in 2018, when we came up with this idea and won
     in the Space Application Hackathon competition and decided not to leave
