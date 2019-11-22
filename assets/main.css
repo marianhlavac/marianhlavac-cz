@@ -198,3 +198,28 @@ li {
     -webkit-text-decoration-color: #b4683c;
   }
 }
+
+/* Responsiveness */
+
+@media screen and (max-width: 800px) {
+  main {
+    padding: 2rem;
+  }
+
+  .home-page > h1 {
+    margin: 2rem 0;
+  }
+
+  .illustration {
+    position: static;
+    margin-top: -2rem;
+  }
+  
+  a.download-pdf {
+    float: left;
+  }
+
+  .works-as {
+    float: none;
+  }
+}
