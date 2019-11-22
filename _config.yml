@@ -6,7 +6,7 @@ lang: "en"
 
 # Build settings
 markdown: kramdown
-gems:
+plugins:
   - jekyll-tidy
 exclude:
   - Gemfile
