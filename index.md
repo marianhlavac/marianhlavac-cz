@@ -16,11 +16,11 @@ at&nbsp;[Czech Technical University](http://fit.cvut.cz){:target="_blank"}.
 
 ## How to contact me
 
-My full name is **Marián Hlaváč** (Bc. Marián Hlaváč, if you like titles)  
-and I currently live in 📍**Taipei, Taiwan** (but normally I'm based in 
+My full name is **Marián Hlaváč** (Bc. Marián Hlaváč, if you like titles)
+and I currently live in&nbsp;📍**Taipei,&nbsp;Taiwan** (but normally I'm based in 
 Prague, Czech Republic).
 
-You can drop me a line at ✉️ [m@marianhlavac.cz](mailto:m@marianhlavac.cz).  
+You can drop me a&nbsp;line at&nbsp;&nbsp;✉️&nbsp;[m@marianhlavac.cz](mailto:m@marianhlavac.cz).  
 I can be found on social networks --- such as
 [LinkedIn](http://linkedin.com/in/marian-hlavac){:target="_blank"}, 
 [GitHub](http://github.com/mmajko){:target="_blank"}, 
@@ -30,11 +30,11 @@ or [Twitter](http://twitter.com/mmajko){:target="_blank"}.
 
 ## What I do
 
-I'm a full-stack web developer with an emphasis on the 
+I'm a&nbsp;full-stack web developer with an emphasis on the 
 **front-end technologies**, and I consider web technologies as my main focus.
 Alongside that, I sometimes do UI design, develop games, or fiddle with
-hardware, but if I were ever to sell myself, I reckon they wouldn't make a
-good selling points.
+hardware, but if I were ever to sell myself, I reckon they wouldn't make 
+a&nbsp;good selling points.
 
 ### Web Development
 I try to cover all corners of the field, from setting up the server, 
@@ -48,14 +48,14 @@ are currently sitting on my hard drive as well.
 ### Development Techniques & Project Management
 Regarding to good development practices, 'clean commit history', 'code review',
 'continuous integration', or 'automation' --- those are some of the terms that 
-I like more than I like eating a dessert after a lunch. And I really like having
-a dessert after a lunch.
+I like more than I like eating a&nbsp;dessert after a&nbsp;lunch. And I really 
+like having a&nbsp;dessert after a&nbsp;lunch.
 
 I also like **open-source** and non-proprietary solutions, 
 so for example, it shouldn't be surprising that this resume is 
-[a Markdown file](https://github.com/mmajko/marianhlavac-cz/blob/master/index.md)
+[a&nbsp;Markdown file](https://github.com/mmajko/marianhlavac-cz/blob/master/index.md)
 that can be converted easily into PDF, this website, or printed.  
-Or some would say I'm just a big nerd.
+Or some would say I'm just a&nbsp;big nerd.
 
 ### Hobbies & Other skills
 I often spend some time on improving myself in different fields. I actually 
@@ -74,11 +74,11 @@ purpose of this page.
 
 ## My past experiences
 
-For almost a decade I dedicated myself to gaining experiences in web
+For almost a&nbsp;decade I dedicated myself to gaining experiences in web
 technologies. I started small, creating websites for my friends and colleagues
 in the old-school Xara Designer, then continued to learn how to program
 small web apps in PHP and now I'm in charge of technical infrastructure of
-a young technological start-up. Whew, time flies.
+a&nbsp;young technological start-up. Whew, time flies.
 
 - ### Co-Founder at **Dronetag**
   - *Nov 2018 -- now*
@@ -92,7 +92,7 @@ a young technological start-up. Whew, time flies.
 
 - ### Developer & Project Architect at **FIT CTU**
   - *Jan 2015 -- Aug 2019*
-  - At Faculty of Information Technology I first started as a front-end 
+  - At Faculty of Information Technology I first started as a&nbsp;front-end 
     developer, but as time went on, I was working on some projects on my own, 
     helped designing user interfaces for various faculty applications, or helped
     to shape the future of faculty website or learning materials system.
@@ -102,16 +102,16 @@ a young technological start-up. Whew, time flies.
   - *May 2013 -- Sep 2015*
   - At young marketing agency I was involved in creating web presentations
     for various clients. Most of the time I was working on the front-end code,
-    HTML&CSS was my daily. Together with a very capable and social Brand New
-    team we delivered engaging campaigns and projects for clients such as
-    Beko or Nestlé.
+    HTML&CSS was my daily. Together with a&nbsp;very capable and social 
+    Brand New team we delivered engaging campaigns and projects for clients
+    such as Beko or Nestlé.
   - [brandnew.cz](http://brandnew.cz){:target="_blank"}
 
 - ### Freelancing
   - *2010 -- 2013*
-  - When I was at high school, I discovered that I am able to make a few bucks
-    by creating websites for smaller clients. I registered as self-employed
-    and started working as freelancer.
+  - When I was at high school, I discovered that I am able to make a&nbsp;few
+    bucks by creating websites for smaller clients. I registered as 
+    self-employed and started working as freelancer.
 
 ## Where I studied
 
@@ -134,8 +134,8 @@ Before that, in 2016 I've finished my 4-year high school program at
 
 <footer>
 If you made it all the way down here, I'd like to thank you. If you read this
-page as a CV, I acknowledge that nobody likes long CVs with a bunch of long 
-texts and stories and whatnot. But I think that one should find a five minutes 
-to read about someone, If he wants that someone to be willing to spend more than
-five minutes on his project.
+page as a&nbsp;CV, I acknowledge that nobody likes long CVs with a&nbsp;bunch
+of long texts and stories and whatnot. But I think that one should find 
+a&nbsp;five minutes to read about someone, If he wants that someone to be 
+willing to spend more than five minutes on his project.
 </footer>

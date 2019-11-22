@@ -12,7 +12,7 @@ body {
                Arial, sans-serif, "Apple Color Emoji",
                "Segoe UI Emoji", "Segoe UI Symbol";
   font-size: 17px;
-  line-height: 1.85;
+  line-height: 1.8;
   font-weight: 400;
   margin: 0;
   padding: 0;
@@ -24,12 +24,12 @@ h1,
 h2,
 h3 {
   font-weight: 700;
+  line-height: 1.2;
 }
 
 h1 {
   font-size: 3.5rem;
   margin: 3em 0 1em 0;
-  line-height: 1.1;
 }
 
 h2 {
@@ -60,21 +60,21 @@ main > p:first-child {
 }
 
 .home-page > h1 {
-  margin-top: 4.25em;
+  margin-top: 4.1em;
   width: 10em;
 }
 
 /* Typography */
 
 p {
-  margin: 0.5em 0 1em 0;
+  margin: 1.25em 0;
   text-align: justify;
 }
 
 hr {
   border: 0;
   border-bottom: thin solid #999;
-  margin: 2rem 0;
+  margin: 3rem 0;
 }
 
 footer {
@@ -154,11 +154,13 @@ a.button:hover {
 
 ul h3 {
   font-weight: 400;
-  margin-top: 0.75em;
+  margin-top: 1.25em;
+  margin-bottom: 0.25em;
 }
 
 li {
   text-align: justify;
+  margin: 0.25em 0;
 }
 
 /* This is crazy, right? Darkmode! */
@@ -204,6 +206,10 @@ li {
     padding: 2rem;
   }
 
+  h1 {
+    font-size: 3rem;
+  }
+
   .home-page > h1 {
     margin: 2rem 0;
   }
@@ -211,6 +217,7 @@ li {
   .illustration {
     position: static;
     margin-top: -2rem;
+    width: 1200px;
   }
   
   a.download-pdf {
@@ -219,5 +226,38 @@ li {
 
   .works-as {
     float: none;
+  }
+
+  hr {
+    margin: 2rem 0;
+  }
+}
+
+@media screen and (max-width: 540px) {
+  main {
+    padding: 1.5rem;
+  }
+
+  h1 {
+    font-size: 2rem;
+  }
+
+  p,
+  li {
+    text-align: left;
+  }
+
+  .home-page > h1 {
+    margin: 1.5rem 0;
+  }
+
+  .illustration {
+    position: static;
+    margin-top: 1rem;
+    width: 900px;
+  }
+
+  .works-as {
+    display: none;
   }
 }
