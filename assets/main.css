@@ -162,3 +162,39 @@ ul h3 {
 li {
   text-align: justify;
 }
+
+/* This is crazy, right? Darkmode! */
+
+@media (prefers-color-scheme: dark) {
+  body {
+    background: #222;
+    color: #eee;
+  }
+
+  a.button {
+    background: #4b4b4b;
+  }
+
+  a.button:hover {
+    background: #eee;
+    color: #222;
+    -webkit-text-fill-color: #222;
+  }
+
+  .illustration {
+    opacity: .8;
+    filter: hue-rotate(45deg);
+  }
+
+  a {
+    color: #b4683c;
+    -webkit-text-fill-color: transparent;
+    background-image: -webkit-gradient(linear, left top, right top, from(#b4683c),to(#c99933));
+    background-image: linear-gradient(to right, #b4683c, #c99933);
+  }
+
+  a:hover {
+    text-decoration-color: #b4683c; 
+    -webkit-text-decoration-color: #b4683c;
+  }
+}
