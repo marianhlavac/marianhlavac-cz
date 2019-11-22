@@ -107,10 +107,8 @@ a:hover {
 /* Illustration */
 
 .illustration {
-  display: block;
-  background: url('illustration.svg') no-repeat;
   width: 1400px;
-  height: 350px;
+  height: auto;
   position: absolute;
   left: 65%;
   z-index: -100;
