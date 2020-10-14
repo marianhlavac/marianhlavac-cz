@@ -132,9 +132,8 @@ Before that, in 2016 I've finished my 4-year high school program at the
 ----  
 
 <footer>
-If you made it all the way down here, I'd like to thank you. If you read this
-page as a&nbsp;CV, I acknowledge that nobody likes long CVs with a&nbsp;bunch
-of long texts and stories and whatnot. But I think that one should find five
-minutes to read about someone, if he wants that someone willing to spend more
-than five minutes on his project.
+If you made it all the way down here, I'd like to thank you. I acknowledge that
+nobody likes long CVs with a&nbsp;bunch of long texts and stories and whatnot. 
+But hey, if you want me to spend more than two minutes on your project, maybe
+you could devote two minutes of your time to read my CV?
 </footer>
