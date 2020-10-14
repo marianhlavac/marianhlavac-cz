@@ -13,7 +13,7 @@ body {
                Arial, sans-serif, "Apple Color Emoji",
                "Segoe UI Emoji", "Segoe UI Symbol";
   font-size: 17px;
-  line-height: 1.8;
+  line-height: 1.6;
   font-weight: 400;
   margin: 0;
   padding: 0;
@@ -35,12 +35,12 @@ h1 {
 
 h2 {
   font-size: 2rem;
-  margin: 1.5em 0 0.4em 0;
+  margin: 2em 0 0.4em 0;
 }
 
 h3 {
   font-size: 1.33rem;
-  margin: 1.5em 0 0 0;
+  margin: 2em 0 0 0;
 }
 
 /* Layout */
