@@ -4,11 +4,11 @@ layout: home
 
 # Hey there, my&nbsp;name&nbsp;is&nbsp;Marián.
 
-I'm a 24-yo full-stack web developer and technology enthusiast with interests
+I'm 25-yo full-stack web developer and technology enthusiast with interests
 in&nbsp;various multimedia, art, and&nbsp;design.
 I have experience with both front-end and&nbsp;back-end web development, 
 project design, UI/UX design, and&nbsp;hardware.
-I'm currently creating a&nbsp;[device to make drones smarter and safe](
+I'm currently working on a&nbsp;[device to make drones smarter and safe to access our airspace](
 https://getdronetag.com){:target="_blank"}.  
 I also teach 3D Printing
 at&nbsp;[Czech Technical University in Prague](http://fit.cvut.cz){:target="_blank"}.
@@ -16,9 +16,8 @@ at&nbsp;[Czech Technical University in Prague](http://fit.cvut.cz){:target="_bla
 
 ## How to contact me
 
-My full name is **Marián Hlaváč** (Bc. Marián Hlaváč if you like titles)
-and I currently live in&nbsp;📍**Taipei,&nbsp;Taiwan** (but normally I'm based
-in Prague, Czech Republic).
+My full name is **Marián Hlaváč** (Ing. Marián Hlaváč if you want)
+and I currently live in&nbsp;📍 **Prague,&nbsp;Czech Republic**.
 
 You can drop me a&nbsp;line at&nbsp;&nbsp;✉️&nbsp;[m@marianhlavac.cz](mailto:m@marianhlavac.cz).  
 I can be found on social networks --- such as
@@ -36,20 +35,20 @@ Alongside that, I sometimes do UI design, develop games, or fiddle with
 hardware, but if I were ever to sell myself, I reckon they wouldn't make 
 a&nbsp;good selling point.
 
-### Web Development
+### Development
 I try to cover all corners of the field, from setting up the server, 
 writing the code or keeping the code maintainable, to
 testing with users, and focusing on good UI and UX.
 
-Last months I was working the most with the **React** framework, using it
-together with **TypeScript**. Some **Python**, **Node.js**, and **Rust** 
-projects are currently sitting on my hard drive, as well.
+Last months, the majority of the code I've written was in **Python**,
+but previously I've been working a lot with **React** framework (using 
+**TypeScript**). From time to time I write a few lines in
+in **Dart**, **Rust** or other languages.
 
 ### Development Techniques & Project Management
-Regarding good development practices, "clean commit history", "code review",
-"continuous integration", or "automation" --- those are some of the terms that 
-I like more than I like eating a&nbsp;dessert after lunch. And I really 
-like having dessert after lunch.
+I value good development practices. I keep clean commit history and try to guide
+others to do the same. Code reviews are a matter of course, as well as CI/CD,
+routine automation, or good automated code tests.
 
 I also like **open-source** and non-proprietary solutions, 
 so for example, it shouldn't be surprising that this resume is 
