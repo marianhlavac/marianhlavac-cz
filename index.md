@@ -22,7 +22,7 @@ and I currently live in&nbsp;📍 **Prague,&nbsp;Czech Republic**.
 You can drop me a&nbsp;line at&nbsp;&nbsp;✉️&nbsp;[m@marianhlavac.cz](mailto:m@marianhlavac.cz).  
 I can be found on social networks --- such as
 [LinkedIn](http://linkedin.com/in/marian-hlavac){:target="_blank"}, 
-[GitHub](http://github.com/mmajko){:target="_blank"}, 
+[GitHub](http://github.com/marianhlavac){:target="_blank"}, 
 [Facebook](http://fb.com/marian.hlavac){:target="_blank"}, 
 or [Twitter](http://twitter.com/mmajko){:target="_blank"}.
 
@@ -52,7 +52,7 @@ routine automation, or good automated code tests.
 
 I also like **open-source** and non-proprietary solutions, 
 so for example, it shouldn't be surprising that this resume is 
-[a&nbsp;Markdown file](https://github.com/mmajko/marianhlavac-cz/blob/master/index.md)
+[a&nbsp;Markdown file](https://github.com/marianhlavac/marianhlavac-cz/blob/master/index.md)
 that can be converted easily into PDF, this website, or printed.  
 Or some would say I'm just a&nbsp;big nerd.
 
