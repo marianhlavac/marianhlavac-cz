@@ -16,8 +16,8 @@ at&nbsp;[Czech Technical University in Prague](http://fit.cvut.cz){:target="_bla
 
 ## How to contact me
 
-My full name is **Marián Hlaváč** (Ing. Marián Hlaváč if you want)
-and I currently live in&nbsp;📍 **Prague,&nbsp;Czech Republic**.
+My full name is **Marián Hlaváč** and I currently live
+in&nbsp;📍 **Prague,&nbsp;Czech Republic**.
 
 You can drop me a&nbsp;line at&nbsp;&nbsp;✉️&nbsp;[m@marianhlavac.cz](mailto:m@marianhlavac.cz).  
 I can be found on social networks --- such as
@@ -32,41 +32,41 @@ or [Twitter](http://twitter.com/mmajko){:target="_blank"}.
 I'm a&nbsp;full-stack web developer with an emphasis on the 
 **front-end technologies**, and I consider web technologies as my main focus.
 Alongside that, I sometimes do UI design, develop games, or fiddle with
-hardware, but if I were ever to sell myself, I reckon they wouldn't make 
-a&nbsp;good selling point.
+hardware, but those skills are not much serious.
 
 ### Development
 I try to cover all corners of the field, from setting up the server, 
-writing the code or keeping the code maintainable, to
-testing with users, and focusing on good UI and UX.
+writing the code while keeping the code maintainable, to
+testing with users, focusing on good UI and UX and overall final result
+presented to users.
 
-Last months, the majority of the code I've written was in **Python**,
+Last months, the majority of the code I've written was in **Python** & **Dart**,
 but previously I've been working a lot with **React** framework (using 
 **TypeScript**). From time to time I write a few lines in
-in **Dart**, **Rust** or other languages.
+in **Swift**, **Kotlin**, **C++**, **Rust** or other languages.
 
 ### Development Techniques & Project Management
 I value good development practices. I keep clean commit history and try to guide
-others to do the same. Code reviews are a matter of course, as well as CI/CD,
-routine automation, or good automated code tests.
+others to do the same. Code reviews are for sure, as well as CI/CD,
+routine automation, or automated code tests.
 
 I also like **open-source** and non-proprietary solutions, 
 so for example, it shouldn't be surprising that this resume is 
 [a&nbsp;Markdown file](https://github.com/marianhlavac/marianhlavac-cz/blob/master/index.md)
 that can be converted easily into PDF, this website, or printed.  
-Or some would say I'm just a&nbsp;big nerd.
+Or some would say I'm just a&nbsp;big nerd. Also true.
 
 ### Hobbies & Other skills
 I often spend some time improving myself in different fields. I actually 
-have more hobbies than those listed below, but I find hobbies such as 
-"playing Tetris", "cooking", or "drinking beers", highly irrelevant to the 
+have much more hobbies than the below listed, but I find hobbies such as 
+"playing Tetris" or "cooking", highly irrelevant to the 
 purpose of this page.
 
 - **Design** --- I like designing user interfaces, print design, 
   3D modelling etc.
-- **Game development** --- Both my bachelor and master thesis are dedicated to 
+- **Game development** --- Both my bachelor and master thesis were dedicated to 
   exploring the possibilities of XR (Virtual Reality & Augmented Reality).
-- **Hardware** --- Arduino, Raspberry Pi, robotics and embedded systems
+- **Hardware** --- Arduino, Raspberry Pi, robotics and other embedded systems.
 - **Photography, Video editing**
 - **Music composition & production**
 
@@ -114,11 +114,9 @@ a&nbsp;young technological start-up. Whew, time flies.
 
 ## Where I studied
 
-In 2017 I finished my bachelor's degree at the
+In 2020 I finished my masters's degree at the
 [Faculty of Information Technology](http://fit.cvut.cz){:target="_blank"}, 
-[Czech Technical University in Prague](http://cvut.cz){:target="_blank"}. 
-Before that, in 2016 I've finished my 4-year high school program at the
-[Secondary Technical School Karvina](http://www.spskarvina.cz/www/){:target="_blank"}. 
+[Czech Technical University in Prague](http://cvut.cz){:target="_blank"}.
 
 - [Faculty of Information Technology, Czech Technical University in Prague](http://fit.cvut.cz){:target="_blank"}  
   *2017 -- 2020*,  Master program
@@ -128,12 +126,3 @@ Before that, in 2016 I've finished my 4-year high school program at the
   *2014 -- 2017*, Bachelor program
 - [Secondary Technical School Karvina](http://www.spskarvina.cz/www/){:target="_blank"}  
   *2010 -- 2014*, High School
-
-----  
-
-<footer>
-If you made it all the way down here, I'd like to thank you. I acknowledge that
-nobody likes long CVs with a&nbsp;bunch of long texts and stories and whatnot. 
-But hey, if you want me to spend more than two minutes on your project, maybe
-you could devote two minutes of your time to read my CV?
-</footer>
