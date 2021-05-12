@@ -2,11 +2,12 @@
 layout: home
 ---
 
-# Hey there, my&nbsp;name&nbsp;is&nbsp;Marián.
+# Hi, my&nbsp;name&nbsp;is&nbsp;Marián.
 
-I'm 25-yo full-stack web developer and technology enthusiast with interests
+I'm 26-yo full-stack web developer and technology enthusiast with interests
 in&nbsp;various multimedia, art, and&nbsp;design.
 I have experience with both front-end and&nbsp;back-end web development, 
+mobile application development,
 project design, UI/UX design, and&nbsp;hardware.
 I'm currently working on a&nbsp;[device to make drones smarter and safe to access our airspace](
 https://getdronetag.com){:target="_blank"}.  
@@ -29,9 +30,10 @@ or [Twitter](http://twitter.com/mmajko){:target="_blank"}.
 
 ## What I do
 
-I'm a&nbsp;full-stack web developer with an emphasis on the 
+I'm a&nbsp;full-stack developer with an emphasis on the 
 **front-end technologies**, and I consider web technologies as my main focus.
-Alongside that, I sometimes do UI design, develop games, or fiddle with
+I also develop mobile applications, using multi-platform mobile frameworks.
+Other than that, I sometimes do UI design, develop games, or fiddle with
 hardware, but those skills are not much serious.
 
 ### Development
@@ -40,9 +42,9 @@ writing the code while keeping the code maintainable, to
 testing with users, focusing on good UI and UX and overall final result
 presented to users.
 
-Last months, the majority of the code I've written was in **Python** & **Dart**,
-but previously I've been working a lot with **React** framework (using 
-**TypeScript**). From time to time I write a few lines in
+In the last months, the majority of the code I wrote was in **Python**, 
+**Dart** (using Flutter SDK) and **TypeScript** (using React).
+From time to time I write a few lines in
 in **Swift**, **Kotlin**, **C++**, **Rust** or other languages.
 
 ### Development Techniques & Project Management
